@@ -1,6 +1,5 @@
 package com.sgcc.dlsc.thread;
 
-import java.util.Collections;
 import java.util.LinkedList;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
